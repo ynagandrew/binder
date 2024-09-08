@@ -1,0 +1,18 @@
+{
+  "id": 4,
+  "league": "NBA",
+  "team": "Dallas Mavericks",
+  "player": "Dirk Nowitzki",
+  "position": "Forward",
+  "rookie": "False",
+  "relic": "False",
+  "autograph": "False",
+  "insert": "undefined",
+  "parallel": "undefined",
+  "brand": "Fleer",
+  "year": 2002,
+  "set_name": "Genuine Basketball",
+  "set_number": "30",
+  "rarity": "undefined",
+  "price": 1
+}

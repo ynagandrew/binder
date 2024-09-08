@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "league": "NBA",
+  "team": "Indiana Pacers",
+  "player": "Buddy Hield",
+  "position": "undefined",
+  "rookie": "False",
+  "relic": "True",
+  "autograph": "False",
+  "insert": "Art Nouveau",
+  "parallel": "undefined",
+  "brand": "Panini",
+  "year": 2024,
+  "set_name": "Court Kings",
+  "set_number": "AN-BUD",
+  "rarity": "1/25",
+  "price": 25
+}

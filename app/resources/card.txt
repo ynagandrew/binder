@@ -1,0 +1,17 @@
+id - int
+league - int
+season - string
+team - int
+player - string
+position - string
+rookie - boolean
+relic - boolean
+autograph - boolean
+insert - string || null
+parallel - string || null
+brand - string
+year - int
+set_name - string
+set_number - int
+rarity - string
+price - int

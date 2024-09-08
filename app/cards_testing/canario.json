@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "player": "Alexander Canario",
+  "position": "outfielder",
+  "rookie": "True",
+  "relic": "False",
+  "autograph": "True",
+  "insert": "undefined",
+  "parallel": "undefined",
+  "brand": "Topps",
+  "year": 2024,
+  "set_name": "Topps Chrome 2024",
+  "set_number": "RA-AC",
+  "rarity": "undefined",
+  "price": 11.61
+}

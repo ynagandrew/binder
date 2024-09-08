@@ -1,0 +1,3 @@
+name - string
+owner - string
+card_ids[] - array[int]
