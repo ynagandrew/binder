@@ -15,3 +15,4 @@ set_name - string
 set_number - int
 rarity - string
 price - int
+image - image? unsure how this is to be implemented - would like users to be able to upload images.
