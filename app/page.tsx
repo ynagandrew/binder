@@ -8,7 +8,7 @@ export default function Home() {
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-left min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-mono)]">
       <header className="row-start-1 flex gap-6 flex-wrap items-center justify-items-left">
         <h1>
-          binder
+          binder.
         </h1>
       </header>
 
@@ -49,7 +49,6 @@ export default function Home() {
         >
           <Image
             aria-hidden
-            src="https://nextjs.org/icons/globe.svg"
             alt="Globe icon"
             width={16}
             height={16}

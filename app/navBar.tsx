@@ -6,14 +6,12 @@ const Home = lazy(() => import('./pages/home'));
 const Collections = lazy(() => import('./pages/collections'));
 const Cards = lazy(() => import('./pages/allCards'));
 const Cardle = lazy(() => import('./pages/cardle'));
-const Testing = lazy(() => import('./pages/testing'));
 
 const pages = [
     { path: "/", name: "home", component: Home },
     { path: "/cards", name: "all cards", component: Cards },
     { path: "/collections", name: "collections", component: Collections },
-    { path: "/cardle", name: "cardle", component: Cardle },
-    { path: "/testing", name: "testing", component: Testing },
+    { path: "/cardle", name: "cardle", component: Cardle }
 ];
 
 function NavBar() {
